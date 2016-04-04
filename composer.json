@@ -1,6 +1,7 @@
 {
     "name": "demonslay335/malwr-api",
     "description": "VirusTotal Public API v2.0 PHP Wrapper",
+    "license": "MIT",
     "type": "library",
     "keywords": ["malwr", "api", "php", "wrapper", "security"],
     "homepage": "https://github.com/demonslay335/malwr-api",
